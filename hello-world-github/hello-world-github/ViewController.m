@@ -6,6 +6,7 @@
 //  Copyright (c) 2015年 XC. All rights reserved.
 //
 // add a file to viewController
+// I have a change
 
 #import "ViewController.h"
 
