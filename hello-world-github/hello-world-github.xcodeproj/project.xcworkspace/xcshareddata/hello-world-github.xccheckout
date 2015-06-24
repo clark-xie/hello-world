@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>16B7BBFA-033E-4B32-A4FD-C73B0A10D90E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>hello-world-github</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>379EA70D4126519C3430027169E0112C3366AFBF</key>
+		<string>https://github.com/happyxiechao/hello-world.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>hello-world-github/hello-world-github.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>379EA70D4126519C3430027169E0112C3366AFBF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/happyxiechao/hello-world.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>379EA70D4126519C3430027169E0112C3366AFBF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>379EA70D4126519C3430027169E0112C3366AFBF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hello-world</string>
+		</dict>
+	</array>
+</dict>
+</plist>
